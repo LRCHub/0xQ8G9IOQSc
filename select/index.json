@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はっぴーでぃっぷまじっく!!",
+  "base_artist": "Speciale",
+  "createdAt": "2025-12-31T05:57:56.480264Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はっぴーでぃっぷまじっく!!",
+      "artist": "Speciale",
+      "has_synced": false,
+      "path": "select/pl_01_はっぴーでぃっぷまじっく!!_Speciale.txt"
+    }
+  ]
+}
